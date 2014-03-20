@@ -14,9 +14,9 @@ Mixmaster 4.0 is an attempt to revamp the Mixmaster software and integrate moder
 Who is behind Mixmaster 4.0?
 ----------------------------
 
-- Lance Contrell
-- John Perry
-- Anthony Papillion
+- Lance Conttrell (Loki)
+- John Perry (Crypto)
+- Anthony Papillion (Cypher)
 
 If you've been involved in Mixmaster for any length of time, you'll immediately recognize Lance and John as the original developers of Mixmaster while Anthony is a relative newcommer to the technology and will be assisting in coding.
 
