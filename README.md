@@ -14,7 +14,7 @@ Mixmaster 4.0 is an attempt to revamp the Mixmaster software and integrate moder
 Who is behind Mixmaster 4.0?
 ----------------------------
 
-- Lance Conttrell (Loki)
+- Lance Cottrell (Loki)
 - John Perry (Crypto)
 - Anthony Papillion (Cypher)
 
